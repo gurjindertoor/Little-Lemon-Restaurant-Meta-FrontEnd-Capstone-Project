@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/css/main.9d15d367.css",
+    "main.js": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/js/main.48112f97.js",
+    "static/js/787.adc1714b.chunk.js": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/js/787.adc1714b.chunk.js",
+    "static/media/restaurantFood.jpg": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/media/restaurantFood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/index.html",
+    "main.9d15d367.css.map": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/css/main.9d15d367.css.map",
+    "main.48112f97.js.map": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/js/main.48112f97.js.map",
+    "787.adc1714b.chunk.js.map": "/Little-Lemon-Restaurant-Meta-FrontEnd-Capstone-Project/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d15d367.css",
+    "static/js/main.48112f97.js"
+  ]
+}
